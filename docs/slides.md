@@ -227,4 +227,5 @@ class: middle
 
 class: middle
 
-# .center[.tc-underline[Thank You! ❤️]]
+# .tc-underline[Thank You! ❤️]
+.invert.size-75.right-50[![QR Code](./img/qrcode_antinomy.png)]
