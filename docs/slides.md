@@ -113,7 +113,7 @@ class: middle
 
 .font-size-3.weight-500.tc-underline[Apache 2.0 License]
 
-.font-size-3.weight-500[antinomyhq/forge]
+.font-size-3.weight-500[⭐️ Support Us]
 
 ---
 
@@ -121,11 +121,13 @@ class: middle
 
 ## .tc-underline[How] does it work?
 
-### 🧰 Multiple focussed agents
+### 🐝 Swarm of Agents
 
-### 🧠 Memory for retrival and learnings
+### 🧠 Memory for Learnings
 
-### 🔁 Retry mechanisms
+### 🔧 Specialized tools
+
+### 🔑 BYOK Architecture
 
 ### ⚙️ Behave like state machines
 
@@ -228,4 +230,5 @@ class: middle
 class: middle
 
 # .tc-underline[Thank You! ❤️]
+
 .invert.size-75.right-50[![QR Code](./img/qrcode_antinomy.png)]
