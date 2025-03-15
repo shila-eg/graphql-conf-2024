@@ -107,7 +107,7 @@ class: middle
 
 class: middle
 
-.invert.right-50.rust-logo[![Rust Logo](https://www.rust-lang.org/logos/rust-logo-blk.svg)]
+.invert.right-50.rust-logo[![QR Code](./img/qrcode_antinomy.png)]
 
 .font-size-3.weight-500[Built with 💗 using]
 
