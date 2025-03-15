@@ -81,7 +81,7 @@ class: middle
 
 ### .font-grey[Scaling Challenges]
 
-## 📏 Context Size Limits
+## 📏 Context Limits
 
 --
 
@@ -101,9 +101,27 @@ class: middle
 
 ## .font-grey[Part 6]
 
-# .tc-underline[Workflows]
+# .tc-underline[Forge] Workflows
 
-### 🧰 Multiple focussed agents + tools
+---
+
+class: middle
+
+.invert.right-50.rust-logo[![Rust Logo](https://www.rust-lang.org/logos/rust-logo-blk.svg)]
+
+.font-size-3.weight-500[Built with 💗 using]
+
+.font-size-3.weight-500.tc-underline[Apache 2.0 License]
+
+.font-size-3.weight-500[antinomyhq/forge]
+
+---
+
+class: middle
+
+## .tc-underline[How] does it work?
+
+### 🧰 Multiple focussed agents
 
 ### 🧠 Memory for retrival and learnings
 
@@ -115,7 +133,7 @@ class: middle
 
 class: middle
 
-# .tc-underline[Workflow Examples]
+# .tc-underline[Real World Examples]
 
 ---
 
@@ -131,7 +149,7 @@ class: middle
 
 ## .tc-underline[MySQL to DynamoDB]
 
-.img-fixed-right[![Workflow Example](./img/workflow.svg)]
+.block[![Workflow Example](./img/workflow.svg)]
 
 ---
 
@@ -151,7 +169,9 @@ class: middle center
 
 ---
 
-## .font-grey[🤓] .tc-underline[Smarter] IDEs .font-grey[1/3]
+class: middle
+
+## .tc-underline[Smarter] IDEs .font-grey[1/3]
 
 ### 🚀 Parallization thru Workflows
 
@@ -159,7 +179,9 @@ class: middle center
 
 ---
 
-## .font-grey[🔥] .tc-underline[Immutable] Software .font-grey[2/3]
+class: middle
+
+## .tc-underline[Immutable] Software .font-grey[2/3]
 
 ### 🔧 No Battling Architecture
 
@@ -169,15 +191,21 @@ class: middle center
 
 ---
 
-## .font-grey[📉] .tc-underline[Library] Usage Drops .font-grey[2/3]
+class: middle
+
+## .tc-underline[Library] Usage .font-grey[2/3]
+
+### 📉 Significant Drop
 
 ### 📋 Lack of Data
 
-### 🛠️ Library Creation Increases
+### 🛠️ Creation Increases
 
 ---
 
-## .font-grey[🌟] New Programming Languages .font-grey[3/3]
+class: middle
+
+## .tc-underline[New] Programming Languages .font-grey[3/3]
 
 ### 🤖 Optimized for Agents
 
@@ -187,11 +215,13 @@ class: middle center
 
 ## Conclusion
 
-Engineering best practices are more important than ever.
+### 🔧 Focus on Modularity smaller re-writable
 
-- Focus on Modularity smaller re-writable
-- Focus on Design and Documentation
-- Invest in Testing and Validation Frameworks
+### 🖼️ Focus on Design and Documentation
+
+### 💪 Invest in Testing and Validation Frameworks
+
+### 🔗 Workflows can scale agents
 
 ---
 
