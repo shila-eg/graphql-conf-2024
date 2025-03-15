@@ -129,9 +129,9 @@ class: middle
 
 class: middle
 
-## .tc-underline[React to Vue migration]
+## .tc-underline[MySQL to DynamoDB]
 
-.img-fixed-right[![Workflow Example](./img/workflow-example-2.svg)]
+.img-fixed-right[![Workflow Example](./img/workflow.svg)]
 
 ---
 
