@@ -127,7 +127,7 @@ class: middle
 
 ### 🧠 Memory for Learnings
 
-### 🔧 Specialized tools
+### 🔧 Robust tools
 
 ### 🔑 BYOK Architecture
 
