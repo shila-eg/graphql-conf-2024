@@ -97,11 +97,13 @@ class: middle
 
 ---
 
-class: middle
+class:middle
 
 ## .font-grey[Part 6]
 
-# .tc-underline[Forge] Workflows
+# .tc-underline[Forge] Orchestrator
+
+### Workflow Engine for Software Engineering
 
 ---
 
@@ -109,7 +111,7 @@ class: middle
 
 .invert.right-50.rust-logo[![QR Code](./img/qrcode_antinomy.png)]
 
-.font-size-3.weight-500[Built with 💗 using]
+.font-size-3.weight-500[Built 💗 Rust]
 
 .font-size-3.weight-500.tc-underline[Apache 2.0 License]
 
@@ -129,7 +131,7 @@ class: middle
 
 ### 🔑 BYOK Architecture
 
-### ⚙️ Behave like state machines
+### ⚙️ Configuration Driven
 
 ---
 
@@ -141,7 +143,9 @@ class: middle
 
 class: middle
 
-## .tc-underline[Github Issue Fix]
+## .tc-underline[Github Workflow]
+
+7 Agents
 
 .img-fixed-right[![Workflow Example](./img/workflow-example.svg)]
 
@@ -149,9 +153,15 @@ class: middle
 
 class: middle
 
-## .tc-underline[MySQL to DynamoDB]
+## .tc-underline[MySQL to DynamoDB Workflow]
 
 .block[![Workflow Example](./img/workflow.svg)]
+
+---
+
+class:middle
+
+# 💳 .tc-underline[ZERO] Tech Debt
 
 ---
 
@@ -173,7 +183,7 @@ class: middle center
 
 class: middle
 
-## .tc-underline[Smarter] IDEs .font-grey[1/3]
+## .tc-underline[Smarter] IDEs .font-grey[1/4]
 
 ### 🚀 Parallization thru Workflows
 
@@ -183,7 +193,7 @@ class: middle
 
 class: middle
 
-## .tc-underline[Immutable] Software .font-grey[2/3]
+## .tc-underline[Immutable] Software .font-grey[2/4]
 
 ### 🔧 No Battling Architecture
 
@@ -195,7 +205,7 @@ class: middle
 
 class: middle
 
-## .tc-underline[Library] Usage .font-grey[2/3]
+## .tc-underline[Library] Usage .font-grey[3/4]
 
 ### 📉 Significant Drop
 
@@ -207,7 +217,7 @@ class: middle
 
 class: middle
 
-## .tc-underline[New] Programming Languages .font-grey[3/3]
+## .tc-underline[New] Programming Languages .font-grey[4/4]
 
 ### 🤖 Optimized for Agents
 
@@ -215,7 +225,7 @@ class: middle
 
 ---
 
-## Conclusion
+## How can we adapt today?
 
 ### 🔧 Focus on Modularity smaller re-writable
 
